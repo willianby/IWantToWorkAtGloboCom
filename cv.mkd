@@ -1,15 +1,73 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+[Area de Esportes]
+[Area de Jornalismo]
+[Area de Comentarios]
 
 __Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, 
+* é provável que ninguém olhe pro seu CV.
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+[Willian Bersch Yamashita
+
+Dados Pessoais
+
+ Solteiro, brasileiro, 22 anos
+ Rua Dr Nuno de Andrade, 120 – Vila Guedes  CEP 05134-340 – São Paulo - SP
+ Celular: (19) 8139-4663
+ Email: willianby@gmail.com
+
+1 Objetivo
+  Atuar como desenvolvedor JAVA.
+
+2 Resumo Profissional
+  Quatro anos de experiência na área de desenvolvimento, com conhecimento avançado                      
+  das linguagens de desenvolvimento JAVA, Delphi, PL/SQL e também dos bancos de dados Oracle, 
+  SQL Server e Firebird. Coordenação estratégica e gerencial de equipe de desenvolvedores.
+
+3 Experiência Profissional
+
+  Desde 2012 – DBW Consultoria
+  Cargo: Analista/Desenvolvedor JAVA
+  Atuando na área de desenvolvimento e por vezes na coordenação de equipe técnica.
+  No Desenvolvimento JAVA, utilizando os Frameworks: Spring MVC, Struts, Struts2, EJB3,     
+  Hibernate, desenvolvi sistemas web tendo como principal cliente o Banco Bradesco.
+
+  2011/2012 - LuxFacta
+  Cargo: Programador JAVA. 
+  Atuando na área de desenvolvimento e por vezes na coordenação de equipe técnica de                                       7 desenvolvedores JAVA utilizando a metodologia de desenvolvimento ágil SCRUM.
+  No Desenvolvimento JAVA, utilizando os Frameworks: Spring MVC, Struts, Struts2, EJB, EJB2,    
+  Hibernate, desenvolvi sistemas web tendo como principal cliente o Banco Bradesco.
+
+  2009/2011- CGA Informática
+  Cargo: Desenvolvedor em Delphi.
+  Participação na equipe que desenvolveu o sistema de automação comercial com        
+  integração a NF-e da rede GRAAL de postos de combustíveis.
+
+  2008/2009 – Estação Engenharia LTDA
+  Cargo: Técnico Speedy.
+  Atuação técnica na manutenção da rede de telecomunicação de Rio Claro-SP com foco na Qualidade do 
+  Sinal Speedy da Telefônica.
+	
+  Escolaridade
+
+  2007-2011 – Graduado em Sistemas de Informação pelo Centro Universitário Claretiano de Rio Claro - SP.
+  2006 – Formado em Técnico de informática pelo Centro Paula Souza Bayeux de Rio Claro - SP.
+
+  Idiomas
+     
+  Nível avançado de inglês (aprendizado autodidata e em aulas particulares).
+  Nível básico de espanhol (aprendizado autodidata e em aulas particulares).
+              
+  Informações Adicionais
+
+  Disponibilidade para Viajar.
+  Disponibilidade para Mudar de Cidade.
+]
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
